@@ -9,3 +9,11 @@ Parameters of the project involved:
 - centralized logging of servers 
 - implmenting basic resilliency methods 
 - creating a manager to create backups and execute rollbacks if necesssary
+
+## Technologies :
+- Virtual Box
+- RabbitMQ
+- PHP
+- Bootstrap
+- HTML
+- CSS
