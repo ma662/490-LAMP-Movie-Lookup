@@ -1,4 +1,4 @@
-# 490-Project
+# 490 LAMP Stack Movie Lookup
 
 This group project involved creating and managing communication between 10 servers to create a website that allows users to lookup realtime movie data.
 
