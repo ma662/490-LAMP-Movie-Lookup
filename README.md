@@ -12,8 +12,9 @@ Parameters of the project involved:
 
 ## Technologies :
 - Virtual Box
+- Ubuntu 16.04
+- MySQL
 - RabbitMQ
+- OMDB API / iShowtimes API
 - PHP
 - Bootstrap
-- HTML
-- CSS
