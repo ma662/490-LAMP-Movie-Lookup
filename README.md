@@ -10,7 +10,7 @@ Parameters of the project involved:
 - implmenting basic resilliency methods 
 - creating a manager to create backups and execute rollbacks if necesssary
 
-## Technologies :
+### Technologies :
 - Virtual Box
 - Ubuntu 16.04
 - MySQL
